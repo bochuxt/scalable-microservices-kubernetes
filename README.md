@@ -1,6 +1,6 @@
 # Scalable Microservices with Kubernetes
 
-This is course code for the [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615) course. 
+This is course code for the month-long [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615) course, taught by Google. 
 
 ![Kubernetes Banner](https://codefresh.io/wp-content/uploads/2017/02/Intro-to-Kubernetes-blog-b-2.png)
 
